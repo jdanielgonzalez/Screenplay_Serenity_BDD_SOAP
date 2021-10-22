@@ -1,0 +1,4 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Operación aritmética - Suma","Sumar dos números","SUCCESS","2021-10-21T18:32:05.596-05:00[America/Bogota]","0.0","7.9"
+"Nombre de la capital","codigo del pais correcto","SUCCESS","2021-10-21T22:08:10.354-05:00[America/Bogota]","0.0","10.5"
+"Nombre de la capital","codigo del pais incorrecto","SUCCESS","2021-10-21T22:08:20.866-05:00[America/Bogota]","0.0","0.52"

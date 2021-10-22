@@ -1,0 +1,3 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Nombre de la capital","codigo del pais correcto","SUCCESS","2021-10-21T22:08:10.354-05:00[America/Bogota]","0.0","10.5"
+"Nombre de la capital","codigo del pais incorrecto","SUCCESS","2021-10-21T22:08:20.866-05:00[America/Bogota]","0.0","0.52"
